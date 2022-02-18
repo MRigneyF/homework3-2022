@@ -101,9 +101,9 @@ a.skip{
 
 .container{
   /* Requirement 5 code here*/
-display: grid;
-grid-template-columns: 1fr 5fr 1 fr;
-row-gap: 30px
+  display: grid;
+  grid-template-columns: 1fr 5fr 1 fr;
+  row-gap: 30px
 }
 
 /* Requirements 6-10 here: */
